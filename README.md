@@ -4,7 +4,9 @@ Nakacoin
 Nakacoin: Peer-to-Peer crypto-currecny and application based on bitcoin protocol
 
 Nakacoin
-(nakacoin@gmail.com)
+
+(nakacoin@gmail.com, BM-2cUdNA1F9Hnq6GzyyfgBf2AD1WgHqnYhod)
+
 November 28th, 2013
 
 ABSTRACT
