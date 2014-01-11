@@ -1,7 +1,7 @@
 Nakacoin
 ========
 
-Nakacoin: Peer-to-Peer crypto-currency and application based on bitcoin protocol
+*Nakacoin: Peer-to-Peer crypto-currency and application based on bitcoin protocol
 
 Nakacoin
 
